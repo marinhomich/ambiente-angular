@@ -9,7 +9,7 @@ export class AppComponent implements OnInit{
   count = 0;
   
   nome = "Michel Marinho de Oliveira";
-
+  text ="";
   pessoas = [
     {
       nome: "Michel",
